@@ -1,6 +1,5 @@
 C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\TaskUnitTesting\UnitTestProjectString\bin\Debug\UnitTestProjectString.dll
 C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\TaskUnitTesting\UnitTestProjectString\bin\Debug\UnitTestProjectString.pdb
-C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\TaskUnitTesting\UnitTestProjectString\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\TaskUnitTesting\UnitTestProjectString\obj\Debug\UnitTestProjectString.csprojResolveAssemblyReference.cache
 C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\TaskUnitTesting\UnitTestProjectString\obj\Debug\UnitTestProjectString.dll
 C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\TaskUnitTesting\UnitTestProjectString\obj\Debug\UnitTestProjectString.pdb
